@@ -1,9 +1,8 @@
 from io import BytesIO
 from PIL import Image
-from pytube import Playlist
+from pytube import Playlist #pytube2
 import os
 import requests
-import pytube as yt
 import music_tag
 
 
